@@ -6,6 +6,6 @@
 
 ---
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RedStoneCoin&repo=redstone&theme=synthwave)](https://github.com/RedStoneCoin/redstone-cb)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RedStoneCoin&repo=redstone-cb&theme=synthwave)](https://github.com/RedStoneCoin/redstone-cb)
 
 ---
