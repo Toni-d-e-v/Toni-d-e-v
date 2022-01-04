@@ -11,3 +11,10 @@ I love the entire process of developing programs. I love the challenge of findin
 - Redstone explorer
 - Community devloper Crypto.Ba
 - Comunity developer Idena Project
+
+## Projects I support! 💻
+
+- Avrio
+- Idena
+- RXC
+- Crypto.ba
