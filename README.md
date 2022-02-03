@@ -18,3 +18,7 @@ I love the entire process of developing programs. I love the challenge of findin
 - Idena
 - RXC
 - Crypto.ba
+## Skills
+- 👨‍💻 JavaScript, PHP, Rust, Python, GO, Solidity, C/C++
+- ⚙️ Blockchain, P2P, WebSockets
+- 💽 MySQL, Mongo
