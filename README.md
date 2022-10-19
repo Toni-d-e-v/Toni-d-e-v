@@ -19,6 +19,8 @@ I love the entire process of developing programs. I love the challenge of findin
 - RXC
 - Crypto.ba
 ## Skills
+- 🔏 PenTesting tryhackme.com/p/tonidev
 - 👨‍💻 JavaScript, PHP, Rust, Python, GO, Solidity, C/C++
 - ⚙️ Blockchain, P2P, WebSockets
 - 💽 MySQL, Mongo
+
