@@ -7,13 +7,12 @@ I love the entire process of developing programs. I love the challenge of findin
 
 ## 🔭 I'm currently working on
 
-- Redstone-rs (Redstone implementation in rust)
-- Redstone explorer
-- Community devloper Crypto.Ba
-- Comunity developer Idena Project
+- CoFounder ReDeX
+- CTO Aves
+- CTO Crypto.ba
+- Lead Developer RXCGAMES.com
 
 ## Projects I support! 💻
-
 - Avrio
 - Idena
 - RXC
