@@ -7,16 +7,10 @@ I love the entire process of developing programs. I love the challenge of findin
 
 ## 🔭 I'm currently working on
 
-- CoFounder ReDeX
-- CTO Aves
-- CTO Crypto.ba
-- Lead Developer RXCGAMES.com
+- Crypto.ba - Lead Dev
+- Avescoin.io - Lead Dev
+- Idena.io - Community
 
-## Projects I support! 💻
-- Avrio
-- Idena
-- RXC
-- Crypto.ba
 ## Skills
 - 🔏 PenTesting tryhackme.com/p/tonidev
 - 👨‍💻 JavaScript, PHP, Rust, Python, GO, Solidity, C/C++
