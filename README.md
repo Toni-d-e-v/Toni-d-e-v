@@ -8,7 +8,6 @@ I love the entire process of developing programs. I love the challenge of findin
 ## 🔭 I'm currently working on
 
 - Crypto.ba - Lead Dev
-- Avescoin.io - Lead Dev
 - Idena.io - Community
 
 ## Skills
