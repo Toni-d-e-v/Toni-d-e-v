@@ -8,7 +8,8 @@ I love the entire process of developing programs. I love the challenge of findin
 ## 🔭 I'm currently working on
 
 - Crypto.ba - Lead Dev
-- Idena.io - Community
+- [Phaos Wallet](https://github.com/ltraveler/phaos-wallet)
+- [iDNA.bet](https://github.com/Toni-d-e-v/iDNA-BET)
 
 ## Skills
 - 🔏 PenTesting tryhackme.com/p/tonidev
