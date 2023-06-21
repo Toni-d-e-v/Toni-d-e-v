@@ -8,9 +8,10 @@ I love the entire process of developing programs. I love the challenge of findin
 ## 🔭 I'm currently working on
 
 - Crypto.ba - Lead Dev
-- [Phaos Wallet](https://github.com/ltraveler/phaos-wallet)
-- [iDNA.bet](https://github.com/Toni-d-e-v/iDNA-BET)
-
+- [RXCgames](https://rxcgames.com/) - Blockchain expert
+- [Phaos Wallet](https://github.com/ltraveler/phaos-wallet) - Backend
+- [iDNA.bet](https://github.com/Toni-d-e-v/iDNA-BET) - Backend
+- A lot more
 ## Skills
 - 🔏 PenTesting tryhackme.com/p/tonidev
 - 👨‍💻 JavaScript, PHP, Rust, Python, GO, Solidity, C/C++
