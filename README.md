@@ -7,7 +7,8 @@ I love the entire process of developing programs. I love the challenge of findin
 
 ## 🔭 I'm currently working on
 
-- Crypto.ba - Lead Dev
+- [Crypto.ba](https://crypto.ba/) - Lead Developer - CTO
+- [CEX.ba](https://cex.ba/) - Lead Developer - CTO
 - [RXCgames](https://rxcgames.com/) - Blockchain expert
 - [Phaos Wallet](https://github.com/ltraveler/phaos-wallet) - Backend
 - [iDNA.bet](https://github.com/Toni-d-e-v/iDNA-BET) - Backend
