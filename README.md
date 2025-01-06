@@ -6,7 +6,10 @@ I love the entire process of developing programs. I love the challenge of findin
 
 
 ## 🔭 I'm currently working on
-
+### Profesional work
+- [CertHub](https://cert-hub.org) - CEO
+- [Marionette](https://marionette.dev/) - DevOps
+### Educational
 - [Crypto.ba](https://crypto.ba/) - Lead Developer - CTO
 - [CEX.ba](https://cex.ba/) - Lead Developer - CTO
 - [RXCgames](https://rxcgames.com/) - Blockchain expert
