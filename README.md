@@ -14,7 +14,7 @@ been in crypto since the early days - started by breaking stuff, now i try to bu
 
 - **[Crypto.ba](https://crypto.ba/)** & **[CEX.ba](https://cex.ba/)** - building exchange infra for the local market
 - **[RXCgames](https://rxcgames.com/)** - blockchain consulting
-- **[SoalrSurge](https://www.solarsurge.io/)** - ( 3rd place SuperTeam Startup Village ) transform excess renewable energy into real value  
+- **[SolarSurge](https://www.solarsurge.io/)** - ( 3rd place SuperTeam Startup Village ) transform excess renewable energy into real value  
 
 ...and like 20 other things i probably forgot about
 
